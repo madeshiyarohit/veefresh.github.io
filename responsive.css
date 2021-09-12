@@ -1,0 +1,681 @@
+/*INDEX PAGE IS START HERE*/
+@media only screen and (max-width : 1260px) {
+    .large-title h2{
+        font-size: 60px;
+    }
+    .slide-number{
+        top: 18%;
+    }
+    .slide-number p {
+        font-size: 40px;
+    }
+    .product-image-section.bg-color-1:before{
+        height: 80%;
+        width: 60%;
+    }
+    .product-image-section.bg-color-2:before{
+        height: 80%;
+        width: 60%;
+    }
+    .product-image-section.bg-color-3:before{
+        height: 80%;
+        width: 60%;
+    }
+    .product-image-section.bg-color-4:before{
+        height: 80%;
+        width: 60%;
+    }
+    .our-story-heading h2{
+        top: -5%;
+    }
+    .main-content-box p{
+        font-size: 18px;
+    }
+    .veebas-section {
+        width: 100%;
+        position: relative;
+        padding: 75px 0;
+    }
+    .veebas-heading-section h2{
+        top: -8%;
+    }
+    .connect-section-start{
+        padding: 130px 0 0;
+    }
+    .connect-section-heading h2{
+        top: 3%!important;
+    }
+}  
+@media only  screen and (max-width: 1024px) {
+    .slide-number p{
+        font-size: 30px;
+    }
+    .slide-number{
+        top: 20%;
+    }
+    .hash-tag-absolute-item-5{
+        left: 30%;
+    }
+    .main-hash-tag-content p{
+        font-size: 16px;
+        padding: 0 50px;
+    }
+    .hash-tag-absolute-item-1{
+        left:20%;
+    }
+    .product-image-section.bg-color-1:before,
+    .product-image-section.bg-color-2:before,
+    .product-image-section.bg-color-2:before,
+    .product-image-section.bg-color-2:before
+     {
+        height: 90%;
+        width: 65%;
+    }
+   
+    .content-section h2{
+        font-size: 20px;
+    }
+    .content-section p{
+        font-size: 12px;
+    }
+    .content-section a {
+        padding: 10px 15px;
+        margin: 15px 0;
+    }
+    .homepage-product-heading h2{
+        font-size: 130px;
+        top: -9%;
+    }
+    .our-story-heading h2{
+        font-size: 130px;
+    }
+    .our-story-main-block > p {
+        width: 80%;
+        font-size: 20px;
+    }
+    .story-block{
+        padding: 0;
+    }
+    .main-content-box p{
+        font-size: 16px;
+    }
+    .veebas-heading-section h2 {
+        font-size: 130px!important;
+        top: -3%!important;
+        letter-spacing: 5px;
+    }
+    .veebas-box-1 .veebas-content p {
+        padding: 20px 0px!important;
+    }
+    .offer-container .offer-content {
+        width: 40%;
+    }
+    .offer-container .offer-content h2{
+        font-size: 60px;
+    }
+}  
+@media only screen and (max-width:950px) {
+    .nav-bar-main{
+        display: none;
+    }
+    .side-nav{
+        display: block;
+    }
+    /* .mini-container-nav-bar{
+        background-color: #fff;
+    } */
+} 
+@media only screen and (max-width:768px ) {
+    .large-title h2{
+        font-size: 50px;
+    }
+    .slide-number p{
+        font-size: 24px;
+    }
+    .slide-number{
+        top: 25%;
+    }
+    .hash-tag-absolute-item-1,
+    .hash-tag-absolute-item-2,
+    .hash-tag-absolute-item-3,
+    .hash-tag-absolute-item-4,
+    .hash-tag-absolute-item-5,
+    .hash-tag-absolute-item-6{
+        max-width: 150px;
+    }
+    .product-sub-main-box .product-box{
+        width: 50%;
+    }
+    .product-image-section.bg-color-1:before {
+        height: 75%;
+        width: 55%;
+    }
+    .product-image-section.bg-color-2:before {
+        height: 75%;
+        width: 55%;
+    }
+    .product-image-section.bg-color-3:before {
+        height: 75%;
+        width: 55%;
+    }
+    .product-image-section.bg-color-4:before {
+        height: 75%;
+        width: 55%;
+    }
+    .homepage-product-main-box{
+        padding: 0 0 20px;
+    }
+    .padding-2{
+        margin-top: 0px;
+    }
+    .product-sub-main-box .product-box{
+        margin: 25px 0;
+    }
+    .sub-story-block{
+        width: 95%;
+    }
+    .our-story-heading h2{
+        font-size: 80px;
+        top: -3%;
+    }
+    .sub-story-block{
+        padding: 50px 0;
+    }
+    .item-box-1 .content-box{
+        flex-wrap: wrap;
+    }
+    .sub-story-block{
+        padding: 0;
+    }
+    .main-content-box h2{
+        font-size: 40px;
+    }
+    .veebas-heading-section h2{
+        font-size: 80px!important;
+    }
+    .veebas-section {
+        padding: 30px 0 50px!important;
+    }
+    .veebas-heading-section h2{
+        top: -7%!important;
+    }
+    .homepage-offer-section{
+        display: none;
+    }
+    .connect-section-heading .home-page-connect-heading {
+        top: 2%!important;
+        font-size: 80px!important;
+    }
+    .connect-section-start{
+        padding: 60px 0 0;
+    }
+    .hash-tag-absolute-item-2 {
+        left: 80%;
+    }
+    .hash-tag-absolute-item-3 {
+        top: 30%;
+        left: 1%;
+    }
+    .main-hash-tag-section{
+        padding: 0;
+    }
+    .hash-tag-absolute-item-5{
+        left: 20%;
+    }
+    .hash-tag-absolute-item-6{
+        left: 48%;
+    }
+    .hash-tag-1 p{
+        font-size: 18px;
+    }
+    .homepage-product-heading h2 {
+        font-size: 80px;
+        top: -3.5%;
+    }
+
+
+
+
+
+
+
+
+
+    .connect-section-heading h2{
+        font-size: 110px!important;
+    }
+  
+
+}
+@media only screen and (max-width:575px) {
+    .large-title h2{
+        font-size: 30px;
+    }
+    .hash-tag-absolute-item-3,
+    .hash-tag-absolute-item-4,
+    .hash-tag-absolute-item-5 {
+        display: none;
+    }
+    .main-hash-tag-content{
+        width: 90%;
+    }
+    .hash-tag-absolute-item-6{
+        top: 2%;
+        left: 48%;
+    }
+    .hash-tag-absolute-item-2 {
+        left: 42%;
+        top: 10%;
+        z-index: 1;
+    }
+    .hash-tag-absolute-item-1 {
+        left: 30%;
+        top: 0%;
+        z-index: 9;
+    }
+    .main-hash-tag-section{
+        min-height: 500px;
+    }
+}
+/*INDEX PAGE IS END HERE*/
+/*CONTACT US PAGE IS START HERE*/
+@media only screen and (max-width:950px) {
+    .shop-nav{
+        display: none;
+    }
+    .nav-bar-small{
+        display: block;
+    }
+    .contact-us-heading h2{
+        font-size: 150px;
+    }
+    .main-connect-content-main{
+        width: 95%;
+    }
+}
+@media only screen and (max-width:768px) {
+    .contact-us-heading h2{
+        font-size: 130px;
+        top: -10%;
+    }
+    .footer-main-block .box1,.footer-main-block .box2{
+        width: 100%;
+        text-align: center;
+        padding: 10px 0;
+    }
+    .footer-main-block{
+        width: 95%;
+        flex-direction: column;
+    }
+    .main-connect-content-main{
+        width: 100%;
+    }
+
+    .main-connect-content-main .content-box-main{
+        width: 50%;
+        margin: 20px 0;
+    }
+}
+@media only screen and (max-width:575px) {
+    .contact-us-heading h2{
+        font-size: 100px;
+        top: -6%;
+    }
+    .main-contact-us-section form{
+        padding: 50px 0;
+    }
+    .main-contact-us-section form{
+        flex-direction: column;
+    }
+    .input-group{
+        width: 100%;
+    }
+    .main-contact-us-section form{
+        text-align: center;
+    }
+}
+@media only screen and (max-width:480px) {
+    .contact-us{
+        padding: 50px 0 0;
+    }
+    .contact-us-heading h2{
+        font-size: 90px;
+        top: -6%;
+    }
+    .main-connect-content-main .box-1-main {
+        flex-direction: column;   
+    }
+    .main-connect-content-main .box-1-main .content-box-main{
+        width: 100%;
+    }
+    .main-connect-content-main .box-2-main ul{
+        justify-content: center;
+    }
+    .shop-footer{
+        background-color: #7852E0;
+        color: var(--main-color-1);
+    }
+}
+@media only screen and (max-width:400px) {
+    .contact-us-heading h2{
+        font-size: 60px;
+        top: -4%;
+    }
+}
+@media only screen and (max-width:375px) {
+    .nav-bar-small-main .mid-data{
+        margin: 0 20px;
+    }
+    .nav-bar-small-main .mid-data img{
+        width: 100%;
+        display: block;
+    }
+}
+/*CONTACT US PAGE IS END HERE*/
+
+/*SHOP PAGE IS START HERE*/
+@media only screen and (max-width:1024px) {
+    .shop-box-2 p{
+        font-size: 16px;
+    }
+    .rating .rating-view {
+        padding: 0 0 0 5px;
+        font-size: 12px;
+    }
+    .shop-box-2 a {
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+    .shop-box-2 h3 {
+        font-size: 18px;
+    }
+    .combo-sub-box .combo-box-2 h2 {
+        font-size: 20px;
+    }
+    .combo-sub-box .combo-box-2 h3 {
+        font-size: 22px;
+    }
+    .combo-sub-box .combo-box-2 a {
+        padding: 10px 15px;
+        font-size: 15px;
+    }
+    .veebas-heading-section h2{
+        font-size: 150px;
+        top: 4%;
+        letter-spacing: 5px;
+    }
+    .overlay-section .box-1 .content-section h2 {
+        font-size: 50px;
+    }
+    .overlay-section .box-1 .content-section p {
+        margin: 10px 0;
+    }
+    .overlay-section .box-1 .content-section {
+        width: 70%;
+    }
+    .overlay-section .box-1 .content-section p {
+        font-size: 14px;
+    }
+    .veebas-box-1 .veebas-content h2 {
+        font-size: 50px;
+    }
+    .veebas-box-1 .veebas-content p {
+        font-size: 16px;
+        padding: 30px 50px;
+    }
+    .box2-box-2 p {
+        font-size: 16px;
+        color: #808080;
+        padding: 10px 0;
+    }
+    .box2-box-2 {
+        padding: 25px 100px;
+    }
+    .connect-section-heading h2 {
+        top: 5%!important;
+        font-size: 150px;
+    }
+}
+@media only screen and (max-width:950px) {
+    .shop-nav{
+        display: none;
+    }
+    .nav-bar-small{
+        display: block;
+    }
+    .shop-product-heading h2{
+        padding-left: 100px;
+    }
+}
+@media only screen and (max-width:768px) {
+    .shop-block-margin-div .bg-color-1:before {
+        width: 70%;
+        height: 85%;
+        border-radius: 0 50px 0 50px;
+    }
+    .shop-block-margin-div .bg-color-2:before {
+        width: 70%;
+        height: 85%;
+        border-radius: 0 50px 0 50px;
+    }
+    .shop-block-margin-div .bg-color-3:before {
+        width: 70%;
+        height: 85%;
+        border-radius: 0 50px 0 50px;
+    }
+    .shop-block-margin-div .bg-color-4:before {
+        width: 70%;
+        height: 85%;
+        border-radius: 0 50px 0 50px;
+    }
+    .shop-product-heading h2 {
+        padding-left: 60px;
+    }
+    .shop-box-2 p {
+        font-size: 14px;
+        line-height: 1.5;
+    }
+    .shop-box-2 h3 {
+        margin: 5px 0;
+        font-size: 16px;
+    }
+    .rating .rating-view {
+        padding: 0px 0 0 10px;
+    }
+    .shop-box-2 a {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    .main-combo-heading-section {
+        padding: 15px 0;
+    }
+    .main-combo-section{
+        padding: 0;
+    }
+    .combo-sub-box .combo-box-1.combo-before-1::before {
+        width: 80%;
+        height: 80%;
+        border-radius: 0 50px 0 50px;
+    }
+    .combo-sub-box .combo-box-1.combo-before-2::before {
+        width: 80%;
+        height: 80%;
+        border-radius: 0 50px 0 50px;
+    }
+    .combo-sub-box .combo-box-1.combo-before-3::before {
+        width: 80%;
+        height: 80%;
+        border-radius: 0 50px 0 50px;
+    }
+    .combo-sub-box .combo-box-2 h2 {
+        font-size: 18px;
+    }
+    .combo-sub-box .combo-box-2 h3 {
+        font-size: 20px;
+    }
+    .combo-sub-box .combo-box-2 h3 strike{
+        font-size: 16px;
+    }
+    .combo-sub-box .combo-box-2 a {
+        padding: 8px 15px;
+        font-size: 12px;
+    }
+    .box2-box-2 {
+        padding: 25px 50px;
+    }
+    .box2-box-2 p{
+        font-size: 14px;
+    }
+    .overlay-section .box-1 .content-section h2 {
+        font-size: 30px;
+    }
+    .overlay-section .box-1 .content-section p span {
+        font-size: 14px;
+    }
+    .overlay-section .box-1 .content-section p {
+        font-size: 12px;
+    }
+    .veebas-heading-section h2 {
+        font-size: 100px;
+        top: 13%;
+        letter-spacing: 5px;
+    }
+    .veebas-box-1 .veebas-content p {
+        font-size: 14px;
+        padding: 15px 10px;
+        line-height: 1.5;
+    }
+    .veebas-section {
+        padding: 150px 0 50px;
+    }
+}
+@media only screen and (max-width:715px) {
+    .image-overlay-section{
+        display: none;
+    }
+}
+@media only screen and (max-width: 575px) {
+    .shop-block-margin-div{
+        flex-direction: column;
+    }
+    .shop-box-1, .shop-box-2 {
+        width: 100%;
+    }
+    .shop-image-div{
+        flex-direction: column;
+    }
+    .image-div {
+        width: 100%;
+    }
+    .shop-procuct-section {
+        background-color: #F8EDED;
+        position: relative;
+        padding: 20px 0;
+        top: 0;
+    }
+    .shop-product-heading{
+        text-align: center;
+    }
+    .shop-product-heading h2 {
+        padding-left: 0px;
+    }
+    .shop-box-2{
+        text-align: center;
+    }
+    .shop-box-2 .rating{
+        justify-content: center;
+    }
+    .main-combo-section{
+        top: 0;
+    }
+    .combo-main-box .combo-box{
+        width: 50%;
+    }
+    .combo-main-box{
+        margin: 20px 0;
+    }
+    .box-2 .box2-box-2 {
+        display: none;
+    }
+    .box-3 .box2-box-2 {
+        display: block;
+        text-align: center;
+    }
+    .veebas-main-section{
+        flex-direction: column-reverse;
+    }
+    .veebas-box-1, .veebas-box-2 {
+        width: 100%;
+    }
+    .veebas-section{
+        padding: 50px 0;
+    }
+    .veebas-box-1{
+        padding: 100px 0;
+    }
+    .veebas-heading-section h2 {
+        font-size: 75px;
+        top: 0%;
+    }
+    .veebas-box-1{
+        padding: 50px 0;
+    }
+    .veebas-box-1 .veebas-content p{
+        padding: 25px 30px;
+    }
+    .connect-section-start {
+        padding: 50px 0 0;
+    }
+    .connect-section-heading h2 {
+        top: 5%;
+        font-size: 80px;
+    }
+    .connect-section-heading h2 {
+        top: -2%;
+        font-size: 80px;
+    }
+}
+@media only screen and (max-width:480px) {
+    .shop-block{
+        width: 100%;
+    }
+    .shop-box-2 p {
+        font-size: 18px;
+    }
+    .shop-box-2 h3 {
+        margin: 5px 0;
+        font-size: 18px;
+    }
+    .shop-box-2 a {
+        padding: 10px 15px;
+        font-size: 12px;
+    }
+    .rating .rating-view {
+        font-size: 14px;
+    }
+    .happy-customer-section{
+        padding: 20px 0;
+    }
+}
+@media only screen and (max-width: 425px) {
+    .veebas-heading-section h2 {
+        font-size: 60px;
+    }
+}
+@media only screen and (max-width : 375px) {
+    .veebas-heading-section h2{
+        font-size: 60px;
+    }
+    .connect-section-heading h2{
+        font-size: 70px;
+        top: -2%;
+    }
+    .main-connect-content{
+        width: 90%;
+        margin: 0 auto;
+    }
+    .happy-customer-heading h2{
+        font-size: 24px;
+    }
+}
+/*SHOP PAGE IS END HERE*/
