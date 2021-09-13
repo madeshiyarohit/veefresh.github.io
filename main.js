@@ -57,12 +57,8 @@ $(document).ready(function(){
         autoplay:true,
         autoplaySpeed:1000,
         responsive: [
-    
-
-
-
-            
-        
+   
+        {
         breakpoint: 1265,
         settings: {
             slidesToShow: 3,
