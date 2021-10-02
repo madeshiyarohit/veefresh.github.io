@@ -75,7 +75,7 @@ $(document).ready(function(){
             dots:false,
         }},
         {
-        breakpoint: 575,
+        breakpoint: 595,
         settings: {
             slidesToShow: 1,
             dots:false,

@@ -130,10 +130,11 @@
         font-size: 50px;
     }
     .slide-number p{
-        font-size: 24px;
+        font-size: 28px;
     }
     .slide-number{
-        top: 25%;
+        top: 20%;
+        left: 8%;
     }
     .hash-tag-absolute-item-1,
     .hash-tag-absolute-item-2,
@@ -249,7 +250,16 @@
 }
 @media only screen and (max-width:575px) {
     .large-title h2{
-        font-size: 30px;
+        font-size: 35px;
+    }
+    .main-hash-tag-content p{
+        margin-top: 150px;
+    }
+    .our-story-heading h2{
+        font-size: 65px;
+    }
+    .side-image{
+        display: none;
     }
     .hash-tag-absolute-item-3,
     .hash-tag-absolute-item-4,
@@ -335,6 +345,64 @@
     }
 }
 @media only screen and (max-width:480px) {
+    .large-title{
+        top: 70%;
+    }
+    .header-slider-div .slider-div-items{
+        padding: 50px 0 50px;
+    }
+    .main-hash-tag-content{
+        width: 100%;
+    }
+    .product-sub-main-box .product-box{
+        width: 100%;
+    }
+    .product-image-section.bg-color-1{
+        width: 80%;
+        margin: 0 auto;
+    }
+    
+    .hover-circle-section{
+        display: none;
+    }
+    .homepage-product-section{
+        padding: 75px 0;
+    }
+    .homepage-product-heading h2{
+        top: -2%!important;
+    }
+    .our-story-heading h2{
+        font-size: 70px;
+        top: -5%;
+    }
+    .our-story-main-block > p{
+        width: 90%;
+        font-size: 18px;
+        padding: 10px 0;
+    }
+    .item-box-1-box {
+        justify-content: space-around;
+        margin-left: 50px;
+    }
+    .item-box-1{
+        padding: 100px 0;
+    }
+    .item-box-1 .content-box{
+        text-align: center;
+    }
+    .count-box{
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        width: 100%;
+    }
+    .reverse-class .image-box{
+        justify-content: space-evenly;
+        margin-left: 50px;
+    }
+    .item-box-1 .image-box, .item-box-1 .content-box{
+        width: 100%;
+    }
     .contact-us{
         padding: 50px 0 0;
     }
@@ -614,8 +682,8 @@
         padding: 100px 0;
     }
     .veebas-heading-section h2 {
-        font-size: 75px;
-        top: 0%;
+        font-size: 75px!important;
+        top: -3%!important;
     }
     .veebas-box-1{
         padding: 50px 0;
@@ -658,6 +726,9 @@
     }
 }
 @media only screen and (max-width: 425px) {
+    .connect-section-heading .home-page-connect-heading{
+        font-size: 60px!important;
+    }
     .veebas-heading-section h2 {
         font-size: 60px;
     }
