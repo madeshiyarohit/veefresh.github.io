@@ -97,11 +97,15 @@
 }
 .formFirst input{
     background-color: transparent;
+    color: var(--main-color-1);
     
 }
 .formFirst label{
     background-color: transparent;
     color: #fff;
+}
+.formFirst button{
+    cursor: pointer;
 }
 .formFirst input::placeholder{
     color: #fff;
@@ -1953,6 +1957,12 @@ body{
     display: block;
     padding: 0;
     margin: 0;
+}
+.closePop2 {
+    background: transparent;
+    color: var(--main-color-1);
+    cursor: pointer;
+    border: 2px solid var(--main-color-1);
 }
 .about-veebabe-section{
     padding: 0;
